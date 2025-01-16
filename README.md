@@ -1,13 +1,13 @@
 # News App
 
-#News App 📱
+##News App 📱
 A Flutter-based mobile application that fetches and displays the latest news headlines using the News API. The app provides a seamless user experience with a high-quality UI, showcasing a list of news headlines and a detailed view for individual articles.
 
 **Features**
-Fetches real-time news headlines using the News API.
-Displays a well-structured, visually appealing UI for the news list.
-On tapping a news item, navigates to a details screen showing the full details of the selected article.
-Optimized for performance and responsive design.
+1. Fetches real-time news headlines using the News API.
+2. Displays a well-structured, visually appealing UI for the news list.
+3. On tapping a news item, navigates to a details screen showing the full details of the selected article.
+4. Optimized for performance and responsive design.
 
 
 ![Screenshot 2025-01-17 012942](https://github.com/user-attachments/assets/bbab022a-468c-4219-b50b-995bb02a8c2f)
